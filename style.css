@@ -1,14 +1,13 @@
-
 /* Elements */
 
 
 body {
 
-	background-color: black; "Rubik 80s Fade"
+	background-color: black;
 
 	color: white;
 
-	font-family: ;
+	font-family: Helvetica, sans-serif;
 
 	margin: auto;
 
@@ -23,9 +22,8 @@ body {
 
 h1 {
 
-	font-family: "Rubik 80s Fade", system-ui Helvetica, sans-serif;
-	font-weight: 400;
-	font-style:normal;
+	font-family: creepster, Helvetica, sans-serif;
+
 	font-size: 5em;
 
 	letter-spacing: .1em;
@@ -44,7 +42,7 @@ a {
 
 a:hover {
 
-	color: green;
+	color: red;
 
 }
 
@@ -62,22 +60,16 @@ a:hover {
 /* Classes */
 
 
-.rubik-80s-fade-regular {
-  font-family: "Rubik 80s Fade", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
+.door {
 
-.button {
+	background-color: grey;
 
-	background-color: dark purple;
-	border: none;
-	color: white;
 	display: inline-block;
+
 	width: 25%;
+
 	height: 300px;
+
 	padding: 15px;
-	font-size: 16px
-	cursor: pointer;
 
 }
