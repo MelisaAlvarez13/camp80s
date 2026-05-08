@@ -4,11 +4,11 @@
 
 body {
 
-	background-color: black;
+	background-color: black; "Rubik 80s Fade"
 
 	color: white;
 
-	font-family: creepster, sans-serif;
+	font-family: ;
 
 	margin: auto;
 
@@ -62,9 +62,15 @@ a:hover {
 /* Classes */
 
 
+.rubik-80s-fade-regular {
+  font-family: "Rubik 80s Fade", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .button {
 
-	background-color: purple;
+	background-color: dark purple;
 	border: none;
 	color: white;
 	display: inline-block;
