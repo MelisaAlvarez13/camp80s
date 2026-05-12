@@ -3,7 +3,7 @@
 
 body {
 
-	background-color: black;
+	background-color: Dark Purple;
 
 	color: white;
 
@@ -60,7 +60,7 @@ a:hover {
 /* Classes */
 
 
-.door {
+.button {
 
 	background-color: grey;
 
