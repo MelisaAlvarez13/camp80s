@@ -5,9 +5,14 @@ body {
 
 	background-color: Black;
 
-	color: white;
-
-	font-family: Helvetica, sans-serif;
+	color: purple;
+	
+	font-family: "rubik-80s-fade-regular" , Helvetica;
+	
+  	font-weight: 400;
+	
+  	font-style: normal;
+}
 
 	margin: auto;
 
@@ -21,13 +26,13 @@ body {
 
 
 h1 {
-
+	color: red;
+	
 	font-family: creepster, Helvetica, sans-serif;
 
 	font-size: 5em;
 
 	letter-spacing: .1em;
-
 }
 
 
@@ -42,7 +47,7 @@ a {
 
 a:hover {
 
-	color: red;
+	color: green;
 
 }
 
